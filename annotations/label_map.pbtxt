@@ -1,0 +1,12 @@
+item { 
+	name:'Low'
+	id:1
+}
+item { 
+	name:'Moderate'
+	id:2
+}
+item { 
+	name:'Severe'
+	id:3
+}
