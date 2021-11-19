@@ -1,0 +1,38 @@
+<annotation>
+  <folder>Low</folder>
+  <filename>Low_9.jpg</filename>
+  <path>C:\Users\91966\OneDrive\Documents\Rust images\Low\Low_9.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Low</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>54</xmin>
+      <ymin>133</ymin>
+      <xmax>165</xmax>
+      <ymax>266</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Low</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>494</xmin>
+      <ymin>116</ymin>
+      <xmax>622</xmax>
+      <ymax>206</ymax>
+    </bndbox>
+  </object>
+</annotation>

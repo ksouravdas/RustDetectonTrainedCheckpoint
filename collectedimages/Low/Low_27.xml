@@ -1,0 +1,38 @@
+<annotation>
+  <folder>Low</folder>
+  <filename>Low_27.jpg</filename>
+  <path>C:\Users\91966\Downloads\collected images for rust 19-11-21\Low\Low_27.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Low</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>360</xmin>
+      <ymin>159</ymin>
+      <xmax>847</xmax>
+      <ymax>481</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Low</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>894</xmin>
+      <ymin>218</ymin>
+      <xmax>1235</xmax>
+      <ymax>523</ymax>
+    </bndbox>
+  </object>
+</annotation>

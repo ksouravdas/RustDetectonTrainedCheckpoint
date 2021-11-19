@@ -1,0 +1,38 @@
+<annotation>
+  <folder>Severe</folder>
+  <filename>Severe_28.jpg</filename>
+  <path>C:\Users\91966\Downloads\collected images for rust 19-11-21\Severe\Severe_28.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1618</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Severe</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>11</xmin>
+      <ymin>406</ymin>
+      <xmax>851</xmax>
+      <ymax>920</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Severe</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>347</xmin>
+      <ymin>162</ymin>
+      <xmax>1170</xmax>
+      <ymax>753</ymax>
+    </bndbox>
+  </object>
+</annotation>
